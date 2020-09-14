@@ -8,4 +8,5 @@ properties present in two jason files: stratigraphy.json and wellpath.json file.
 
 
 The pythod code file contains the code required the perform the above mentioned task.
+
 The final_out.json file contains final result after completion of the task.
