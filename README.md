@@ -7,6 +7,6 @@ properties present in two jason files: stratigraphy.json and wellpath.json file.
 ● md(measured depth)​and ​tvd(true vertical depth)​should be in meters (unit). ​md ​ is represented as ​md ​ or ​pickDepth ​in both of the files.
 
 
-The pythod code file contains the code required the perform the above mentioned task.
+The pythod code file contains the code required to perform the above mentioned task.
 
 The final_out.json file contains final result after completion of the task.
